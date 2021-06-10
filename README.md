@@ -47,7 +47,7 @@ pip install .
 
 And the package is available in your environment for import.
 
-NOTE: Prior to use of the python extension module, go through the C++ installation (for libp56.so library being available in /usr/local/lib64/)
+NOTE: Prior to use of the python extension module, go through the C++ installation (for `libp56.so` library being available in `/usr/local/lib64/`)
 
 # Usage C++
 Consult the `example/p56-example.cpp` for example usage.
