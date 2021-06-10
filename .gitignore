@@ -40,3 +40,9 @@
 
 # compile commands
 compile_commands.json
+
+# python install files
+**_skbuild/
+**dist/
+**p56_measurement.egg-info
+__pycache__

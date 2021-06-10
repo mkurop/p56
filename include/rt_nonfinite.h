@@ -49,7 +49,7 @@ typedef struct {
 #endif
 
 /*
- * File trailer for rt_nonfinite.h
+ * File trailer for rt_nonfinite.
  *
  * [EOF]
  */
