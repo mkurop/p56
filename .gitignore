@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# SpaceVim configs
+**SpaceVim.d/
+
+# cmake folders
+**cmake-build-Release/
+**cmake-build-Clang/
+
+# compile commands
+compile_commands.json
