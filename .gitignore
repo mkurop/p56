@@ -46,3 +46,4 @@ compile_commands.json
 **dist/
 **p56_measurement.egg-info
 __pycache__
+**build/
